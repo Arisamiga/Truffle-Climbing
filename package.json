@@ -1,0 +1,17 @@
+{
+  "name": "truffle-hackathon",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.1.0"
+  },
+  "dependencies": {
+    "@trufflehq/sdk": "^0.0.7"
+  }
+}
