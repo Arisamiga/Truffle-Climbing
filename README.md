@@ -12,6 +12,6 @@ Basically, the Idea behind this is to have something for the viewer to pass the 
 <img src="https://user-images.githubusercontent.com/64918822/221991276-2eb8f352-e405-44ed-937f-156f844d8808.JPG" width=250>
 
 
-Instructions and Explanation here:
+Instructions and Explanation can be found here:
 
 https://www.youtube.com/watch?v=oVwAgx1htDw
