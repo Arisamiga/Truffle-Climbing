@@ -94,7 +94,7 @@ button:focus-visible {
 
 .animationMovement {
   transition: all 0.4s ease;
-  -webkit-transition:all 0.4s ease;
+  -webkit-transition: all 0.4s cubic-bezier(0.18, 0.03, 0.3, 1.35);
   -webkit-user-drag: none;
   user-select: none;
   -moz-user-select: none;
@@ -148,6 +148,11 @@ button:focus-visible {
 
 .rock:hover, .eye:hover {
   cursor: pointer;
+
+}
+
+.eyes:hover {
+  bottom: 17px;
 }
 
 @media (prefers-color-scheme: light) {
